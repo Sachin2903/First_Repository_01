@@ -14,7 +14,7 @@ function App() {
               <li>Strong community support:</li>
 
             </ol>
-            <button>Get Started ...</button>
+            <button>Get Started ....</button>
         
       </header>
     </div>
