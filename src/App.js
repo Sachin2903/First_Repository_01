@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+          <h3>Benifits of using react ... </h3>
             <ol>
               <li>Component based architecture</li>
               <li>Virtual Dom for efficient updates</li>
